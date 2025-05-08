@@ -435,7 +435,7 @@ $taskResult = $stmt->get_result();
    <!-- Top Right Profile Section -->
 <div class="top-right-profile">
     <div class="profile-info">
-        <img src="https://pnghq.com/wp-content/uploads/pnghq.com-profile-avatar-png-768x804.png" alt="User" class="profile-icon">
+        <img src="https://www.pngall.com/wp-content/uploads/5/Profile-Transparent.png" alt="User" class="profile-icon">
         <span><?php echo htmlspecialchars($employee['name']); ?></span>
         <i class="arrow-down"></i>
     </div>
@@ -446,7 +446,7 @@ $taskResult = $stmt->get_result();
     <!-- Dropdown Menu -->
     <div class="dropdown-menu">
         <div class="profile-dropdown">
-            <img src="https://pnghq.com/wp-content/uploads/pnghq.com-profile-avatar-png-768x804.png" alt="User" class="dropdown-profile-icon">
+            <img src="https://www.pngall.com/wp-content/uploads/5/Profile-Transparent.png" alt="User" class="dropdown-profile-icon">
             <p class="dropdown-name"><?php echo htmlspecialchars($employee['name']); ?></p>
             <p class="dropdown-role"><?php echo htmlspecialchars($employee['position']); ?></p>
         </div>
